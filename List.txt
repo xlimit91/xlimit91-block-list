@@ -1,3 +1,6 @@
+# Please use the new blacklist.txt and regex.list
+# This list will probably not receive any new updates, or at least at longer intervals
+
 3.bp.blogspot.com
 a.pub.network
 ad.zanox.com
