@@ -11,5 +11,9 @@ You can add the list to your adblock or Pi-Hole if you want. I will try to keep 
 - regex.list (for Pi-Hole): https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list
 
 (HOW TO)
-- If you want to add List.txt or blacklist.txt to your Pi-Hole, go to your Pi-Hole Admin Console » Settings » Blocklists » Add the link/url » click save & update button
-![](https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/img/pi-hole-admin-console-blacklist.png)
+- Add List.txt or blacklist.txt to your Pi-Hole
+  - Go to your Pi-Hole Admin Console » Settings » Blocklists » Add link/url » Click 'Save and Update' button
+  - ![](https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/img/pi-hole-admin-console-blacklist.png)
+- Add regex.list to your Pi-Hole
+  - Open your console and go to the folder where regex.list is located: cd /etc/pihole/
+  - Copy my regex.list entries and paste it into yours. Save your regex.list file
