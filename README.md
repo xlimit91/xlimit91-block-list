@@ -8,7 +8,7 @@ You can add the list to your adblock or Pi-Hole if you want. I will try to keep 
 - List.txt » This list will probably not receive any new updates, or at least at longer intervals. List remains online, as some still use it.
 
 (RAW)
-- List.txt: https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
+- (rarely updated) List.txt: https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
 - blacklist.txt: https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 - regex.list (for Pi-Hole): https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list
 
