@@ -16,7 +16,6 @@
 (^|\.)gaug\.es$
 (^|\.)woopra\.com$
 (^|\.)openwebanalytics\.com$
-(^|\.)trafficfactory\.biz$
 (^|\.)wlzohrpjbuq\.com$
 (^|\.)sape\.ru$
 (^|\.)download-geek\.com$
@@ -35,7 +34,6 @@
 (^|\.)adswizz\.com$
 (^|\.)bitbounce\.com$
 (^|\.)nine-our-prize20\.loan$
-(^|\.)amazon-adsystem\.com$
 (^|\.)adextrem\.com$
 (^|\.)awenetwork\.com$
 (^|\.)etology\.com$
@@ -48,8 +46,6 @@
 (^|\.)cpmnotify\.com$
 (^|\.)websnewsdate\.com$
 (^|\.)onlinecasinoreports\.com$
-(^|\.)slandshaknews\.com$
-(^|\.)slandshaknews\.com$
 (^|\.)cdnondemand\.org$
 (^|\.)cobalten\.com$
 (^|\.)news-subscribe\.com$
@@ -67,16 +63,13 @@
 (^|\.)meetrics\.net$
 (^|\.)svonm\.com$
 (^|\.)trafficjunky\.net$
-(^|\.)amazon-adsystem\.com$
 (^|\.)ioam\.de$
-(^|\.)trafficfactory\.biz$
 (^|\.)securecloud-smart\.com$
 (^|\.)hot-offer-for-you\.com$
 (^|\.)outbrain\.com$
 (^|\.)outbrainimg\.com$
 (^|\.)globvill\.de$
 (^|\.)internetat\.tv$(^|\.)doubleclick\.net$
-(^|\.)trafficfactory\.biz$
 (^|\.)mordi\.fun$
 (^|\.)watchmygf\.to$
 (^|\.)rhfgjld\.com$
@@ -113,3 +106,6 @@
 (^|\.)taboola\.com$
 (^|\.)hotjar\.com$
 (^|\.)piwik$
+(^|\.)adobe\.com$
+(^|\.)adobe\.io$
+(^|\.)adobelogin\.com$

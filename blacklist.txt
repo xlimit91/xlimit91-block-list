@@ -367,7 +367,6 @@ ssp.adtags.pro
 stats.adtags.pro
 ads.betweendigital.com
 kodik.info
-scr.wfcdn.de
 wfcdn.de
 time.samsungcloudsolution.com
 js.qwerty24.net
@@ -418,3 +417,19 @@ funnwebs.com
 www.sunnyplayer.com
 datingandchats.pro
 adsly.xyz
+adsdk.yandex.ru
+mobile.yandexadexchange.net
+ipinfo.io
+tingtherfde.ga
+www.wunderwahl.de
+wunderwahl.de
+www.freudebote.de
+freudebote.de
+www.megahause.de
+megahause.de
+www.hallohaus.co
+hallohaus.co
+www.saltdays.de
+saltdays.de
+www.poponuss.de
+poponuss.de
