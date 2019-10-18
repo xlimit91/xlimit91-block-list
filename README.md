@@ -15,5 +15,5 @@ Handpicked custom block list annoying ads, trackers, scam sites etc. for Pi-Hole
 I will try to keep it up-to-date regularly.
 
 - Added blacklist and regex.list seperately.
-- List.txt » This list was my first version. It will probably not receive any new updates, or at least at longer intervals. List.txt will stay online, because some may still use it
+- List.txt » This list was my first version. It will probably not receive any new updates, or at least at longer intervals. List.txt will stay online, because some may still use it.
 	- https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
