@@ -5,6 +5,8 @@ Handpicked custom block list annoying ads, trackers, scam sites etc. for Pi-Hole
 
 **SOURCE:**
 
+Feel free to share it with others!
+
 |Listname|URL|
 |--|--|
 |blacklist.txt|https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt|
