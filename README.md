@@ -1,7 +1,7 @@
 # xlimit91 block list for Pi-Hole (DNS Blocking)
 Handpicked custom block list annoying ads, trackers, scam sites etc. for Pi-Hole (DNS Blocking).
 
-![](https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/img/xlimit91-pihole-blocklist-github-banner.jpg)
+![](https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/img/xlimit91-pihole-blocklist-github-banner-2.jpg)
 
 **RAW SOURCE:**
 - blacklist.txt: https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
