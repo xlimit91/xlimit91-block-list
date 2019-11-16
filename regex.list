@@ -109,3 +109,5 @@
 (^|\.)adobe\.com$
 (^|\.)adobe\.io$
 (^|\.)adobelogin\.com$
+(^|\.)cleverpush\.com$
+(^|\.)footprintdns\.com$
