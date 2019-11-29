@@ -377,7 +377,6 @@ analytics.ff.avast.com
 impressions.imaxcash.com
 v1.c1-cd1.net
 clicks.imaxcash.com
-s.w.org
 rtb.disply.me
 disply.me
 news.ok.de
@@ -468,3 +467,4 @@ vimlo.pro
 palundrus.com
 qd3u5eeuos.com
 sweetloversclub.com
+banner.advertising.com
