@@ -203,7 +203,6 @@ topclickguru.com
 wlbetathome.adsrv.eacdn.com
 a.pub.network
 c.pub.network
-events.gfe.nvidia.com
 s.smopy.com
 servicer.mgid.com
 download-geek.com
