@@ -111,3 +111,11 @@
 (^|\.)adobelogin\.com$
 (^|\.)cleverpush\.com$
 (^|\.)footprintdns\.com$
+([a-zA-Z0-9\-\._]{2,256})(\.cn$)
+([a-zA-Z0-9\-\._]{2,256})(\.vn$)
+([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
+(^|\.)localhookup$
+(^|\.)meetuptoday$
+.*(xn--)([a-zA-Z0-9\-\._]{2,256})*(?!\.de)(\.[a-z]{2,18})
+(^|\.)montafp\.top$
+(^|\.)wpnrtnmrewunrtok\.xyz$
