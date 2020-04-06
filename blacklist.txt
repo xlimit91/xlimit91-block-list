@@ -311,7 +311,6 @@ incoming.telemetry.mozilla.org
 scripts.mediavine.com
 piwik.grimoire.org
 www.wowvirtualreality.com
-l.facebook.com
 lepodownload.mediatek.com
 4c.9oo91e.com
 binom.topscoupons.com
