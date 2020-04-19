@@ -311,7 +311,6 @@ incoming.telemetry.mozilla.org
 scripts.mediavine.com
 piwik.grimoire.org
 www.wowvirtualreality.com
-l.facebook.com
 lepodownload.mediatek.com
 4c.9oo91e.com
 binom.topscoupons.com
@@ -497,3 +496,13 @@ gdl5vtbbv0lj.com
 pdo7e.com
 rebrand.ly
 t2m.io
+skyprize16.live
+ams1-ib.adnxs.com
+acdn.adnxs.com
+popup.taboola.com
+click.lawbutler.com
+cms.analytics.yahoo.com
+ipecho.net
+myexternalip.com
+www.trackip.net
+trackip.net
