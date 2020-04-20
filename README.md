@@ -3,19 +3,14 @@ Handpicked custom block list annoying ads, trackers, scam sites, email spam webs
 
 ![](https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/img/xlimit91-pihole-blocklist-github-banner-2.jpg)
 
-**SOURCE:**
-
-Feel free to share it with others!
-
 |Listname|URL|
 |--|--|
 |blacklist.txt|https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt|
 |regex.list|https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list|
 
-**INFO/CHANGELOG:**
+**INFO:**
 
+**Feel free to share it with others!**
 I will try to keep it up-to-date regularly.
-
 - Added blacklist and regex.list seperately.
-- List.txt » This list was my first version. It will probably not receive any new updates, or at least at longer intervals. List.txt will stay online, because some may still use it.
-	- https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
+- (Discontinued) **List.txt** will probably not receive any new updates, or at least at longer intervals. It will stay online, because some may still use it. Please do not add it to your PiHole, use blacklist.txt and regex.list instead!
