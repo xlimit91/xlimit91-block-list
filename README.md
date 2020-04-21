@@ -18,11 +18,8 @@ I will try to keep it up-to-date regularly.
 ---
 
 Other recommendations/useful stuff, check it out.
-- https://github.com/mmotti/pihole-regex : https://github.com/mmotti/pihole-regex/blob/master/regex.list
-- https://github.com/anudeepND/whitelist : whitelist.txt (use commands below to add safe domains to your whitelist)
-```
-git clone https://github.com/anudeepND/whitelist.git
-cd whitelist/scripts
-sudo ./whitelist.sh
-```
-- https://github.com/EnergizedProtection/block : Please be careful, may block more than expected.
+|GitHub|Info|
+|--|--|
+|https://github.com/anudeepND/whitelist|whitelist.txt (use command/s below to add safe domains to your whitelist)<br><br>```git clone https://github.com/anudeepND/whitelist.git & sudo whitelist/scripts/whitelist.sh```|
+|https://github.com/mmotti/pihole-regex|https://github.com/mmotti/pihole-regex/blob/master/regex.list|
+|https://github.com/EnergizedProtection/block|Please be careful, may block more than expected.|
