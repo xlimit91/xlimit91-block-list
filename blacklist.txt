@@ -246,7 +246,6 @@ www.megdexchange.com
 stats.wp.com
 stats.hearthis.at
 adservice.google.de
-securepubads.g.doubleclick.net
 www.cobalten.com
 3.bp.blogspot.com
 media.oadts.com
@@ -271,7 +270,6 @@ mordi.fun
 showad.host
 rhfgjld.com
 www.arminius.io
-d.smopy.com
 zononi.com
 tracking.drillisch.de
 error.facebook.com
@@ -510,3 +508,8 @@ irqs.ioam.de
 widgets.outbrain.com
 script.ioam.de
 de.ioam.de
+icanhazip.com
+checkip.amazonaws.com
+wpad.fritz.box
+cadsanz.com
+d.smopy.com
