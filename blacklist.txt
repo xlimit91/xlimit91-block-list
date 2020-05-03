@@ -256,10 +256,7 @@ spade.twitch.tv
 chatenabled.mail.google.com
 tracking.finanzen.net
 advertising.amazon.de
-ipchicken.com
-whatismyipaddress.com
 bot.whatismyipaddress.com
-www.ipchicken.com
 predictivdisplay.com
 ero-advertising.com
 whatsyourflower.com
