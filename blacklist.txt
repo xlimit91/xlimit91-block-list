@@ -1,4 +1,3 @@
-
 lmlicenses.wip4.adobe.com
 lm.licenses.adobe.com
 activate.adobe.com
@@ -510,7 +509,6 @@ script.ioam.de
 de.ioam.de
 icanhazip.com
 checkip.amazonaws.com
-wpad.fritz.box
 cadsanz.com
 d.smopy.com
 bitcoin-news.biz
@@ -528,3 +526,19 @@ lowtyroguer.com
 propeller-tracking.com
 jumbitr.com
 xml.trafficmoose.com
+ynxx.com
+scr.wfcdn.de
+readiong.net
+xu2.com
+xtremeserve.xyz
+cp.tgbmx.xyz
+tgbmx.xyz
+www.aaoqq.site
+aaoqq.site
+onclickalgo.com
+onclickgenius.com
+onclickperformance.com
+qgvvv.catchthelove.net
+catchthelove.net
+teleskoponline.info
+eu-adsrv.rtbsuperhub.com
