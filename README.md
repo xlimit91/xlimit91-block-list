@@ -9,5 +9,4 @@ Handpicked custom list of annoying ads, trackers, scam sites, email spam website
 |regex.list|https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list|
 
 **Feel free to share it with others!** I will try to keep it up-to-date regularly.
-- Added blacklist and regex.list seperately, DO NOT use **List.txt** anymore! It will probably not receive any new updates, or at least at longer intervals. It will stay online, because some may still use it.
 - If you have any issues with my list, let me know.
