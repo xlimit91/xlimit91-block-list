@@ -57,7 +57,6 @@ ads.betweendigital.com
 ads.samsungads.com
 ads.sunmaker.com
 ads.trafficjunky.net
-ads.trafficjunky.net
 adsdk.yandex.ru
 adserver.juicyads.com
 adservice.google.de
@@ -70,7 +69,6 @@ adultbaron.com
 adverdirect.com
 advertising.amazon.de
 afshanthough.pro
-aklamio.com
 aklamio.com
 ams1-ib.adnxs.com
 analyticacdn.com
@@ -117,7 +115,6 @@ bitcoin-news.biz
 blastnotificationx.com
 blockchain.info
 bodloster.com
-bodloster.com
 bot.whatismyipaddress.com
 bubblyalibiappear.com
 busyroughly.com
@@ -135,7 +132,6 @@ cdn.adtags.pro
 cdn.bestcontentjob.top
 cdn.cookielaw.org
 cdn.fraudlabspro.com
-cdn.macovi.de
 cdn.macovi.de
 cdn.recognified.net
 cdn.samsungcloudsolution.com
@@ -155,10 +151,7 @@ checkip.amazonaws.com
 cheqzone.com
 chocohjuanfhdhf.com
 ck.juicyads.com
-ck.juicyads.com
 cleverpush.com
-cleverpush.com
-clicahy.com
 clicahy.com
 click.lawbutler.com
 clicks.imaxcash.com
@@ -225,7 +218,6 @@ divisionnosehuge10.live
 dnes.cz
 donkeyrecentfaith.com
 download-geek.com
-download-geek.com
 ds.consent.is
 dunekdin.com
 easiesttangle.com
@@ -250,10 +242,8 @@ euro-track.info
 exceptionless.io
 exdynsrv.com
 exosrv.com
-exosrv.com
 faceearlobe.com
 fcgov.com
-feetwindyoung-8.live
 feetwindyoung-8.live
 femininefurrow.com
 findwfriends.net.ht
@@ -391,11 +381,9 @@ mobileadvertise.de
 mod-990.com
 montafp.top
 mordi.fun
-mordi.fun
 morguecountryportray.com
 msftspeechmodelsprod.azureedge.net
 msh.amazon.co.uk
-mybetterdl.com
 mybetterdl.com
 mycliplister.com
 myexternalip.com
@@ -502,10 +490,8 @@ reports.wes.df.telemetry.microsoft.com
 resolutioncomplexionfinishing.com
 revenuehits.com
 rhfgjld.com
-rhfgjld.com
 rindicalapa.fun
 ro7s8wo57qnb.com
-rockjork1.guru
 rockjork1.guru
 rsafrwd.com
 rtb.disply.me
@@ -576,10 +562,8 @@ svonm.com
 sweeps9100.ttxsrl148.life
 sweetloversclub.com
 swiftfling.com
-swiftfling.com
 sx.leadzu.com
 syncnewest-theintenselyfile.best
-syndication.twitter.com
 syndication.twitter.com
 t-r-f-k.com
 t.hrtyj.com
@@ -601,7 +585,6 @@ telemetry.urs.microsoft.com
 teleskoponline.info
 tentmess.com
 tgbmx.xyz
-tgbmx.xyz
 thirdleg.xyz
 tilltucked.com
 tingtherfde.ga
@@ -621,7 +604,6 @@ tracking.finanzen.net
 tracking.media-advertising.org
 trackip.net
 trafficjunky.net
-trafiq.bid
 trafiq.bid
 trafyield.com
 trcknr.business
@@ -644,7 +626,6 @@ utilizesailvehicle.com
 v1.c1-cd1.net
 vanderlisten.pro
 variations.brave.com
-vasstyguruom.guru
 vasstyguruom.guru
 vbn67.com
 vc.hotjar.io
@@ -685,8 +666,6 @@ worldnewsstoday.tech
 wpbhnyjej.com
 wpnrtnmrewunrtok.xyz
 wrison-subustall.com
-wrison-subustall.com
-wss.analyticacdn.com
 wss.analyticacdn.com
 wunderwahl.de
 wwis-dubc1-vip100.adobe.com
@@ -839,7 +818,6 @@ www.prtawe.com
 www.pxjmdtryd.com
 www.qnjdtefk.com
 www.r2rdownload.com
-www.raschdorf-online.de
 www.raschdorf-online.de
 www.relnocyyxhpjb.com
 www.saltdays.de
