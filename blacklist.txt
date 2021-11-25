@@ -1,3 +1,4 @@
+analyticacdn.com
 10945-2.s.cdn15.com
 12.bodloster.com
 15cb56ff71b8406b21.wtahsapp.com
@@ -71,7 +72,6 @@ advertising.amazon.de
 afshanthough.pro
 aklamio.com
 ams1-ib.adnxs.com
-analyticacdn.com
 analytics.ecosia.org
 analytics.ff.avast.com
 android-defender.net
@@ -116,7 +116,6 @@ bitcoin-news.biz
 blastnotificationx.com
 blockchain.info
 bodloster.com
-bot.whatismyipaddress.com
 bubblyalibiappear.com
 busyroughly.com
 buysellads.com
@@ -133,7 +132,6 @@ cdn.adtags.pro
 cdn.bestcontentjob.top
 cdn.cookielaw.org
 cdn.fraudlabspro.com
-cdn.macovi.de
 cdn.macovi.de
 cdn.recognified.net
 cdn.samsungcloudsolution.com
@@ -249,7 +247,6 @@ exosrv.com
 faceearlobe.com
 fcgov.com
 feetwindyoung-8.live
-feetwindyoung-8.live
 femininefurrow.com
 findwfriends.net.ht
 firescorrelationprodigy.com
@@ -318,7 +315,6 @@ instaflrt.com
 internetat.tvdoubleclick.net
 intl.xiaomi.com
 ioam.de
-ipchicken.com
 ipecho.net
 ipinfo.io
 irqs.ioam.de
@@ -352,8 +348,8 @@ link.abcabdc.xyz
 lm-prd-da1.licenses.adobe.com
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
-localhookup
 localhookup14.com
+localhookup
 lofv.xyz
 log-ingestion-eu.samsungacr.com
 log.uniconsent.com
@@ -372,8 +368,8 @@ media.oadts.com
 mediadownload.site
 meet-hercegovina.com
 meetrics.net
-meetuptoday
 meetuptoday11.com
+meetuptoday
 megahause.de
 memorableordealstranger.com
 messserver.de
@@ -443,9 +439,9 @@ passivemarcoanyhow.com
 payageround-10.live
 pcmdnsrv.com
 pdo7e.com
-piwik
 piwik.grimoire.org
 piwik.up.welt.de
+piwik
 pkgebysm.com
 plantationthrillednoncommittal.com
 platincasino.com
@@ -497,7 +493,6 @@ revenuehits.com
 rhfgjld.com
 rindicalapa.fun
 ro7s8wo57qnb.com
-rockjork1.guru
 rockjork1.guru
 rsafrwd.com
 rtb.disply.me
@@ -571,7 +566,6 @@ swiftfling.com
 sx.leadzu.com
 syncnewest-theintenselyfile.best
 syndication.twitter.com
-syndication.twitter.com
 t-r-f-k.com
 t.hrtyj.com
 t.strmtrk.com
@@ -637,7 +631,6 @@ vanderlisten.pro
 vapsapypsa.com
 variations.brave.com
 vasstyguruom.guru
-vasstyguruom.guru
 vbn67.com
 vc.hotjar.io
 viatepigan.com
@@ -656,7 +649,6 @@ websnewsdate.com
 welcometoadultparty.com
 wettbewerb8.live
 wfcdn.de
-whatismyipaddress.com
 whatsyourflower.com
 whois.co.kr
 whudiphezy.pro
@@ -678,7 +670,6 @@ worldnewsstoday.tech
 wpbhnyjej.com
 wpnrtnmrewunrtok.xyz
 wrison-subustall.com
-wss.analyticacdn.com
 wss.analyticacdn.com
 wunderwahl.de
 wwis-dubc1-vip100.adobe.com
@@ -815,7 +806,6 @@ www.gtlcgovlg.com
 www.gutscheinexxl.de
 www.hallohaus.co
 www.iammvucrpj.com
-www.ipchicken.com
 www.jamble.com
 www.jnhjvkapqf.com
 www.lofv.xyz
@@ -832,7 +822,6 @@ www.prtawe.com
 www.pxjmdtryd.com
 www.qnjdtefk.com
 www.r2rdownload.com
-www.raschdorf-online.de
 www.raschdorf-online.de
 www.relnocyyxhpjb.com
 www.saltdays.de
@@ -880,3 +869,12 @@ zdsfnagupwkztl.com
 zeokfeyraxls.com
 zononi.com
 zpu.samsungelectronics.com
+privatenudismpics.info
+crl.globalsign.net
+banonemind.com
+imgimg.xyz
+f00f00.bar
+nmrodam.com
+rb.gy
+www.ph.casino
+ph.casino
