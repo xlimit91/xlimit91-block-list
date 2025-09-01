@@ -68,10 +68,8 @@ ioam.de
 juicyads.com
 kergaukr.com
 lenovomm.com
-localhookup
 mediadownload.site
 meetrics.net
-meetuptoday
 messserver.de
 mgid.com
 midgifts.racing
@@ -88,7 +86,6 @@ outbrainimg.com
 outbrain.com
 outbrain.org
 pcmdnsrv.com
-piwik
 platincasino.com
 qwerty24.net
 revenuehits.com
