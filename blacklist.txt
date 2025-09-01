@@ -642,7 +642,6 @@ scripts.mediavine.com
 sdk.sharethrough.com
 searchtuner.com
 secure.clicahy.com
-secure.gravatar.com
 securecloud-smart.com
 secureconv-dl.com
 selectserialcage.com
